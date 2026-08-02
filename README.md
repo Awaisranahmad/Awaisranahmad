@@ -120,13 +120,9 @@ Machine Learning project for fake news detection.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Awaisranahmad&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Awaisranahmad&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
