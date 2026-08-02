@@ -1,16 +1,13 @@
-<!-- Banner with glassmorphism wave effect -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Rana%20Awais%20Ahmad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20|%20Backend%20|%20Python%20|%20AI&descAlignY=55&descSize=20"/>
 </p>
 
-<!-- Animated typing header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Backend+Engineer;Python+AI+Enthusiast;Open+Source+Lover" />
   </a>
 </p>
 
-<!-- Profile views and social badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awaisranahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Awaisranahmad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -22,7 +19,7 @@
 # 🚀 About Me
 
 - 🎓 BS Information Technology Student
-- 📱 **Flutter Developer** – pixel-perfect UI & scalable mobile apps
+- 📱 **Flutter Developer** – pixel‑perfect UI & scalable apps
 - ⚙️ **Backend Engineer** – Node.js, Express.js, MongoDB
 - 🤖 **Python & AI Enthusiast** – chatbots, automation, ML
 - 🌱 Currently diving deep into **System Design & Docker**
@@ -31,7 +28,7 @@
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rana-awais-ahmad" target="_blank">
@@ -70,43 +67,34 @@
 
 # 🚀 Featured Projects
 
-<!-- Replace repo names with your actual projects -->
+<!-- ⚠️ IMPORTANT: Repo names ko apne real GitHub repos se replace karo -->
 <p align="center">
-  <a href="https://github.com/Awaisranahmad/flutter-app">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=flutter-app&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Awaisranahmad/your-flutter-repo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=your-flutter-repo&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Awaisranahmad/ai-chatbot">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=ai-chatbot&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Awaisranahmad/your-ai-project">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=your-ai-project&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Awaisranahmad/backend-api">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=backend-api&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Awaisranahmad/your-backend-api">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=your-backend-api&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Awaisranahmad/file-organizer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=file-organizer&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Awaisranahmad/your-utility-tool">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Awaisranahmad&repo=your-utility-tool&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+> 🔁 **Yahan `your-flutter-repo`, `your-ai-project` etc. ki jagah apne asli GitHub repository names daalo.** Public repo hona chahiye, tabhi card show hoga.
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<!-- Agar ye load na ho to service temporary down hai. Tab tak badge list ka alternate use kar sakte hain. -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Awaisranahmad&theme=algolia&no-frame=true&margin-w=10&column=7" />
 </p>
-
-<details>
-  <summary>💡 Trophy nahi dikh rahi? Alternate Badges</summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Stars-10+-yellow?style=flat-square" />
-    <img src="https://img.shields.io/badge/Commits-500+-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/PRs-10+-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/Issues-5+-red?style=flat-square" />
-  </p>
-</details>
 
 ---
 
@@ -135,13 +123,13 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Blue Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Awaisranahmad/Awaisranahmad/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Awaisranahmad/Awaisranahmad/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ *Snake animation ke liye GitHub Actions workflow set karna hoga. Instructions: [Platane/snk](https://github.com/Platane/snk)*
+> ⚠️ *Agar snake blue na dikhe, to workflow re‑run karo aur `output` branch refresh hone do. Dark variant ke liye link mein `...-dark.svg` karo.*
 
 ---
 
@@ -161,7 +149,7 @@ I'm open to collaborating on:
 - Flutter mobile apps
 - Backend APIs & microservices
 - Python automation / AI projects
-- Open-source contributions
+- Open‑source contributions
 
 ---
 
