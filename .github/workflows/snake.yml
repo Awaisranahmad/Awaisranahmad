@@ -1,27 +1,31 @@
-name: Generate Blue Snake
+name: Generate Snake Animation
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
+      - name: Generate Snake (Dark Theme)
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Awaisranahmad
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=#1e88e5,#e8f5e9,#a5d6a7,#66bb6a,#43a047,#2e7d32
-            dist/github-contribution-grid-snake-dark.svg?palette=#1e88e5,#e8f5e9,#a5d6a7,#66bb6a,#43a047,#2e7d32
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
