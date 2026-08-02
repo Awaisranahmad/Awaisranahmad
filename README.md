@@ -2,14 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,40:1565c0,100:1e88e5&height=210&section=header&text=Rana%20Awais%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Backend%20%7C%20Python%20%7C%20AI&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=📱+Flutter+Developer;⚙️+Backend+Engineer+%7C+Node.js+%26+MongoDB;🤖+Python+%26+AI+Enthusiast;💻+Open+Source+Contributor;☕+Turning+Coffee+into+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=📱+Flutter+Developer;⚙️+Backend+Engineer+%7C+Node.js+%26+MongoDB;🤖+Python+%26+AI+Enthusiast;💻+Open+Source+Contributor;☕+Turning+Coffee+into+Clean+Code)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-awais-ahmad)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awaisranahmad)
 [![Profile Views](https://komarev.com/ghpvc/?username=Awaisranahmad&color=1e88e5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Awaisranahmad)
-[![Followers](https://img.shields.io/github/followers/Awaisranahmad?logo=github&style=for-the-badge&color=0d47a1&labelColor=1c1917)](https://github.com/Awaisranahmad?tab=followers)
 
 </div>
 
@@ -71,25 +70,33 @@
 
 </div>
 
-> 💡 **Tip:** Create these repos on GitHub with the same names and add proper READMEs to make your profile stand out to recruiters!
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awaisranahmad&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Awaisranahmad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisranahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- Shields.io GitHub badges — always load, no rate limits -->
+![Stars](https://img.shields.io/github/stars/Awaisranahmad?affiliations=OWNER&style=for-the-badge&logo=github&color=f1c40f&labelColor=1a1b27&label=⭐%20Stars)
+![Followers](https://img.shields.io/github/followers/Awaisranahmad?style=for-the-badge&logo=github&color=1e88e5&labelColor=1a1b27&label=👥%20Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAwaisranahmad&query=public_repos&style=for-the-badge&logo=github&color=27ae60&labelColor=1a1b27&label=📁%20Public%20Repos)
+![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAwaisranahmad&query=public_gists&style=for-the-badge&logo=github&color=8e44ad&labelColor=1a1b27&label=📝%20Gists)
+
+<br/>
+
+<!-- WakaTime alternative — skills self-reported as visual progress -->
+
+### 💡 Skill Levels
+
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| Flutter / Dart | Intermediate | `████████░░` |
+| Firebase | Intermediate | `███████░░░` |
+| Node.js / Express | Intermediate | `██████░░░░` |
+| MongoDB | Intermediate | `██████░░░░` |
+| Python | Intermediate | `███████░░░` |
+| Docker | Learning | `████░░░░░░` |
+| System Design | Learning | `███░░░░░░░` |
 
 </div>
 
@@ -98,15 +105,17 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Awaisranahmad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1e88e5&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8"/>
+  <img src="https://streak-stats.demolab.com?user=Awaisranahmad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1e88e5&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=888"/>
 </div>
+
+> 💡 **Streak not showing?** This is normal if GitHub account is new. Start committing daily and it will appear within a week!
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awaisranahmad&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38BDF8&area=true&area_color=1e88e520"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awaisranahmad&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38BDF8&area=true"/>
 </div>
 
 ---
@@ -117,7 +126,19 @@
   <img width="100%" src="https://raw.githubusercontent.com/Awaisranahmad/Awaisranahmad/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> ⚠️ **Snake not showing?** You need to set up the GitHub Action — see the `snake.yml` workflow file provided separately. Go to **Settings → Actions → General → Workflow permissions → Read and write permissions**, then push the workflow.
+<details>
+  <summary>⚙️ How to enable the Snake animation</summary>
+  <br/>
+
+  **Step 1:** Go to your repo **Settings → Actions → General → Workflow permissions**
+  Set to **Read and write permissions** ✅
+
+  **Step 2:** Create file `.github/workflows/snake.yml` and paste the provided `snake.yml` content.
+
+  **Step 3:** Go to **Actions tab → Generate Snake Animation → Run workflow**
+
+  Snake will appear in ~2 minutes!
+</details>
 
 ---
 
@@ -125,13 +146,11 @@
 
 <div align="center">
 
-| Topic | Progress |
-|:---|:---|
-| 🏗️ System Design & Scalability | `████████░░` 80% |
-| 🐳 Docker & Containerization | `██████░░░░` 60% |
-| 🔐 JWT & Secure Auth | `███████░░░` 70% |
-| 🤖 AI/ML Integration | `████░░░░░░` 40% |
-| 🧹 Flutter Clean Architecture | `████████░░` 80% |
+![System Design](https://img.shields.io/badge/System_Design-Learning-1e88e5?style=for-the-badge&logo=googledocs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Exploring-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-Practicing-27ae60?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Exploring-8e44ad?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Implementing-e67e22?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
