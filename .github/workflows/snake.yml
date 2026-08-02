@@ -1,33 +1,26 @@
-name: Generate Snake Animation
+name: Generate Blue Snake
 
 on:
-  schedule: # har 12 ghante mein update hoga
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # manually bhi chala sakte ho
-  push:
-    branches:
-      - main # ya master, jo tumhari default branch ho
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      # 1. Checkout repository
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # 2. Generate the snake SVG
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Awaisranahmad
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=#0b3d5c,#1a5b8c,#2b7abd,#63b1ff
+            dist/github-contribution-grid-snake-dark.svg?palette=#0b3d5c,#1a5b8c,#2b7abd,#63b1ff
 
-      # 3. Push the generated file to the 'output' branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
