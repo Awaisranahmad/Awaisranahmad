@@ -112,24 +112,16 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img width="48%" src="https://vercel.app" alt="Awais Stats" />
-  
-  <!-- GitHub Streak Stats Card -->
-  <img width="46%" src="https://herokuapp.com" alt="Awais Streak" />
-</div>
 
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+` <div align="center"> 
   <img width="100%" src="https://raw.githubusercontent.com/Awaisranahmad/Awaisranahmad/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+</div> `
 
 <details>
   <summary>⚙️ How to enable the Snake animation</summary>
