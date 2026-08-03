@@ -115,8 +115,13 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awaisranahmad&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38BDF8&area=true"/>
+  <!-- GitHub Stats Card -->
+  <img width="48%" src="https://vercel.app" alt="Awais Stats" />
+  
+  <!-- GitHub Streak Stats Card -->
+  <img width="46%" src="https://herokuapp.com" alt="Awais Streak" />
 </div>
+
 
 ---
 
