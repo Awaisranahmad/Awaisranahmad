@@ -111,7 +111,10 @@
 > 💡 **Streak not showing?** This is normal if GitHub account is new. Start committing daily and it will appear within a week!
 
 ---
-
+## Contribution Graph
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awaisranahmad&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae" alt="Awais's Activity Graph" />
+</div>
 
 
 
