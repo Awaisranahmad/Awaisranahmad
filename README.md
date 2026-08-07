@@ -19,7 +19,7 @@
 ```yaml
 👤  name    : Rana Awais Ahmad
 🌍  location: Pakistan 🇵🇰
-🎓  degree  : BS Information Technology (Graduating 2028)
+🎓  degree  : BS Information Technology 
 💼  roles   : Flutter Developer · Backend Engineer · AI Enthusiast
 🌱  learning: System Design · Docker · JWT Auth · AI/ML Integration
 🤝  open_to : Freelance · Collaboration · Open Source
