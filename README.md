@@ -23,7 +23,7 @@
 💼  roles   : Flutter Developer · Backend Engineer · AI Enthusiast
 🌱  learning: System Design · Docker · JWT Auth · AI/ML Integration
 🤝  open_to : Freelance · Collaboration · Open Source
-⚡  fact    : I turn coffee into clean code ☕ , let's connect
+⚡  fact    : I turn coffee into clean code ☕ , let's connect 
 ```
 
 ---
