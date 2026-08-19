@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About ME
+## 🧑‍💻 About Me
 
 ```yaml
 👤  name    : Rana Awais Ahmad
